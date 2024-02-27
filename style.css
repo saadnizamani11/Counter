@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(202, 163, 55);
+}
+.box{
+    background-color: rgb(216, 188, 61);
+    margin: 100px;
+    padding: 100px;
+    text-align: center;
+    box-shadow: rgb(0, 0, 0) 0px 10px 10px 10px;
+}
+#counter{
+    color: green;
+    font-size: 40px;
+}
+.count{
+    color: white;
+    font-size: 50px;
+}
+#increment{
+    color: white;
+    background-color: rgb(37, 37, 78);
+    padding: 10px;
+    border-radius: 10px;
+}
+#reset{
+    color: white;
+    background-color: rgb(37, 37, 78);
+    padding: 10px;
+    border-radius: 10px;
+}
+#decriment{
+    color: white;
+    background-color: rgb(37, 37, 78);
+    padding: 10px;
+    border-radius: 10px;
+}
